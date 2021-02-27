@@ -1877,6 +1877,9 @@ header .navbar-expand .navbar-brand i {
 header .navbar-expand .navbar-brand img {
     height: var(--nav-brand-height);
 }
+header .navbar-expand .navbar-brand .brand img {
+    max-width: var(--nav-brand-width);
+}
 
 header .navbar-expand .navbar-brand .brand {
     letter-spacing: 5px;
