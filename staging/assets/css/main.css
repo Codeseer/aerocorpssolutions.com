@@ -405,7 +405,7 @@ h3 {
 
 h4 {
     margin: 1.5rem 0;
-    font-size: 1.5rem;
+    font-size: 1rem;
     font-weight: 700;
     line-height: 1.2;
     color: var(--primary-t-color);
@@ -4549,7 +4549,10 @@ footer .copyright p {
     body .navbar-brand {
         margin: 0;
     }
-
+    header .navbar-expand .navbar-brand .brand img {
+        max-width: 60%;
+    }
+    
     /* #endregion Header */
 
     /* #region Slider */    
