@@ -1939,7 +1939,7 @@ header .navbar-expand .navbar-brand .featured .first {
 .navbar-expand .navbar-nav .nav-link:not(.btn) {
     padding-right: 1rem;
     padding-left: 1rem;
-    color: var(--nav-item-color);
+    color: var(--secondary-color);
     -webkit-transition: all .4s ease-out 0s;
     -o-transition: all .4s ease-out 0s;
     -moz-transition: all .4s ease-out 0s;
